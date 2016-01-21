@@ -1,4 +1,4 @@
-/* Copyright */
+/* Copyright Notice */
 #include <stdio.h>
 
 int main() {
