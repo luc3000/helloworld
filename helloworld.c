@@ -1,3 +1,4 @@
+/* Copyright */
 #include <stdio.h>
 
 int main() {
